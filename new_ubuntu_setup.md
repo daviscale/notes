@@ -9,6 +9,7 @@ sudo apt-get update
 sudo apt-get install neovim
 sudo apt install openjdk-14-jre-headless
 sudo apt-get install silversearcher-ag
+sudo apt-get install tmux
 ```
 
 ## SBT
