@@ -56,3 +56,7 @@ git config --global core.editor "nvim"
 Follow instructions here to install zsh and make it the default shell:
 
 https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+
+Install oh my zsh:
+
+https://ohmyz.sh/#install
