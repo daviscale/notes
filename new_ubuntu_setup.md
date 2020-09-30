@@ -50,3 +50,9 @@ Tell Git you want to use nvim:
 ```bash
 git config --global core.editor "nvim"
 ```
+
+## zsh
+
+Follow instructions here to install zsh and make it the default shell:
+
+https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
