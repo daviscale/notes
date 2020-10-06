@@ -60,3 +60,5 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 Install oh my zsh:
 
 https://ohmyz.sh/#install
+
+Install your personal .zshrc file.
