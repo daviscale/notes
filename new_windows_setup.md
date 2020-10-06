@@ -7,6 +7,9 @@
 - Install Ubuntu from the Microsoft Store
 - Set Ubuntu as the default console
 - In the Windows Terminal settings, find the Ubuntu profile and set the `colorScheme` to `Solarized Dark`
+- Set the `startingDirectory` in Windows Terminal settings as recommended [here](https://docs.microsoft.com/en-us/windows/terminal/customize-settings/profile-settings)
+- Follow the instructions in [this Hanselman blog post](https://www.hanselman.com/blog/HowToMakeAPrettyPromptInWindowsTerminalWithPowerlineNerdFontsCascadiaCodeWSLAndOhmyposh.aspx) on installing Powerline fonts. Ignore the PowerShell step.
+
 
 ## References
 
