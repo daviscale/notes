@@ -7,17 +7,9 @@ Run these commands to install software:
 ```bash
 sudo apt-get update
 sudo apt-get install neovim
-sudo apt install openjdk-14-jre-headless
 sudo apt-get install silversearcher-ag
 sudo apt-get install tmux
 ```
-
-## SBT
-
-- Download the latest version of [sbt](https://www.scala-sbt.org/). 
-- Extract the ZIP file. 
-- Move the folder to /var/lib
-- Make a link with `sudo ln -s /var/lib/sbt/bin/sbt /usr/local/bin`
 
 ## SSH
 
