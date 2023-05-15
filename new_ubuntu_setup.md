@@ -16,7 +16,7 @@ sudo apt-get install tmux
 Generate a new ssh key with:
 
 ```bash
-ssh-keygen
+ssh-keygen -t ed25519 -C "your@example.com"
 # follow the prompts
 
 # Start the OpenSSH auth agent and add your newly created identity
@@ -30,17 +30,23 @@ Complete nvim setup found at https://github.com/daviscale/vimrc
 
 ## Git
 
-Tell Git who you are:
+Tell git who you are:
 
 ```bash
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ```
 
-Tell Git you want to use nvim:
+Tell git you want to use nvim:
 
 ```bash
 git config --global core.editor "nvim"
+```
+
+Tell git you want to update the default branch name to `main`:
+
+```bash
+git config --global init.defaultBranch main
 ```
 
 ## zsh
